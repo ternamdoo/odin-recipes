@@ -25,4 +25,3 @@ In this project, I create a simple recipe site with a few recipes anyone can coo
 * A recipes folder to contain the pages for each recipe
 * An images folder to contain the pictures of the finished recipes
 * A README.md file which contains general information about the project
-* The ho
