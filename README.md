@@ -11,8 +11,7 @@ The scope of the project is to practice the HTML topics covered in the curriculu
 * Writing lists in HTML
     * Ordered Lists
     * Unordered lists
-* HTML Links
-    Absolute and Relative:
+* Absolute and Relative HTML Links:
     * URL links
     * Image links
 * Committing project changes to Git
