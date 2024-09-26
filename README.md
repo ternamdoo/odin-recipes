@@ -19,6 +19,8 @@ The scope of the project is to practice the HTML topics covered in the curriculu
 ### Project Information
 In this project, I create a simple recipe site with a few recipes anyone can cook at home.
 
+Click [this link](https://ternamdoo.github.io/odin-recipes/ "Ternamdoo's Recipe Project HomePage") to see the project site.
+
 ### About the Files and Directories
 * The index.html file is the homepage for the recipe site
 * A recipes folder to contain the pages for each recipe
