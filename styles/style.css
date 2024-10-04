@@ -1,3 +1,13 @@
 body {
-    background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2 {
+    color: blue;
+}
+
+img {
+    height: auto;
+    width: 300px;
 }
